@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flixster Deux</string>
+	<string name="top_rated_movies"><u>Top-Rated Movies</u></string>
+	<string name="upcoming_movies"><u>Upcoming Movies</u></string>
+</resources>
